@@ -1,12 +1,18 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
 import Home from '../views/Home.vue'
+import AddProjectForm from '../components/AddProjectForm.vue'
 
 const routes = [
   {
     path: '/',
     name: 'Home',
     component: Home
+  },
+  {
+    path: '/add',
+    name: 'AddProject',
+    component: AddProjectForm
   },
 ]
 
