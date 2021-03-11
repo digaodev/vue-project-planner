@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage",
+      "details": "Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Setup marketing email",
+      "details": "Lorem Ipsum Lorem Ipsum",
+      "completed": false
+    }
+  ]
+}
