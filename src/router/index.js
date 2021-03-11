@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
 import Home from '../views/Home.vue'
-import AddProjectForm from '../components/AddProjectForm.vue'
+import AddProjectForm from '../views/AddProjectForm.vue'
 
 const routes = [
   {
